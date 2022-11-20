@@ -2,9 +2,9 @@ package colorcoder;
 
 public class Main extends ColorPair {
    
-     public Main(MajorColor major, MinorColor minor) {
+     public Main(MajorColor major, MinorColor minor)
+     	{
 		super(major, minor);
-		// TODO Auto-generated constructor stub
 	}
     
     static void testNumberToPair(int pairNumber,
